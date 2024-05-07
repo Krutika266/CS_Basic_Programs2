@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatGeneric", "..\StatGener
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchEx", "..\SwitchEx\SwitchEx\SwitchEx.csproj", "{A820611B-C768-48E7-8E69-BE80083C8692}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumL", "..\EnumL\EnumL\EnumL.csproj", "{81858D17-594B-491C-87FC-A7D821A8FDBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A820611B-C768-48E7-8E69-BE80083C8692}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A820611B-C768-48E7-8E69-BE80083C8692}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A820611B-C768-48E7-8E69-BE80083C8692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81858D17-594B-491C-87FC-A7D821A8FDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81858D17-594B-491C-87FC-A7D821A8FDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81858D17-594B-491C-87FC-A7D821A8FDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81858D17-594B-491C-87FC-A7D821A8FDBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
