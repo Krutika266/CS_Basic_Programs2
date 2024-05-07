@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatGenEx", "StatGenEx\Stat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchEx", "SwitchEx\SwitchEx.csproj", "{F68C4FFA-026F-4FAB-989D-AD7272C51B5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "InterfaceExample\InterfaceExample.csproj", "{FB65CAD2-602A-499A-8EB6-F1D182A6FFED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F68C4FFA-026F-4FAB-989D-AD7272C51B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F68C4FFA-026F-4FAB-989D-AD7272C51B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F68C4FFA-026F-4FAB-989D-AD7272C51B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB65CAD2-602A-499A-8EB6-F1D182A6FFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB65CAD2-602A-499A-8EB6-F1D182A6FFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB65CAD2-602A-499A-8EB6-F1D182A6FFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB65CAD2-602A-499A-8EB6-F1D182A6FFED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
