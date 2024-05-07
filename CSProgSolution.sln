@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "Interfa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractEx", "AbstractEx\AbstractEx.csproj", "{59C52ACB-562C-46DA-A7DD-7F2D0FEFE1E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEx", "StringEx\StringEx.csproj", "{AE76FE6B-1FD0-4AC8-A33F-3CFF1CAD765C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{59C52ACB-562C-46DA-A7DD-7F2D0FEFE1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59C52ACB-562C-46DA-A7DD-7F2D0FEFE1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59C52ACB-562C-46DA-A7DD-7F2D0FEFE1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE76FE6B-1FD0-4AC8-A33F-3CFF1CAD765C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE76FE6B-1FD0-4AC8-A33F-3CFF1CAD765C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE76FE6B-1FD0-4AC8-A33F-3CFF1CAD765C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE76FE6B-1FD0-4AC8-A33F-3CFF1CAD765C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
